@@ -11,7 +11,7 @@ import MyNavbar from '@/components/MyNavbar'
 
 export default {
   name: 'App',
-  components: { MyNavbar }
+  components: {MyNavbar}
 }
 </script>
 
